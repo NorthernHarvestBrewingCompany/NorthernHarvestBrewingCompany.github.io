@@ -1,4 +1,4 @@
-# [Northern Harvest Brewing Company](https://www.northernharvest.beer) - [github.io](northernharvestbrewing.github.io] page
+# [Northern Harvest Brewing Company](https://www.northernharvest.beer) - [github.io](northernharvestbrewing.github.io) page
 The home of basic early stage brewery apps, prior to being moved to the private git repo. This is the place to quickly build out a rough design and share it with internal parties, prior to moving forward with development.
 ## Current Item - Fermentation Temperature Dashboard
 Fermentation temperature is critical to the end product. With that, we desire to be able to monitor that temperature remotely, and receive email, text, and or push alerts if that temperature goes outside of a set range.
