@@ -6,5 +6,5 @@ This will be done using a small collection of Raspberry Pis connected to tempera
 This portion of the project is the endpoint dashboard that will provide easy access from mobile devices on multiple platforms via simple web login. This dashboard will subscribe to the MQTT topic hosted by a centralized cloud server, and display the output of that topic in a succinct and easy to read fashion.
 
 ## Dashboard Framework
-The dashboard front-end will be based upon the ever popular (Bootstrap)[https://github.com/twbs/bootstrap] framework, together with ready made bootstrap dashboard layout (Gentelella)[https://github.com/puikinsh/gentelella]. 
+The dashboard front-end will be based upon the ever popular [Bootstrap](https://github.com/twbs/bootstrap) framework, together with ready made bootstrap dashboard layout [Gentelella](https://github.com/puikinsh/gentelella). 
 
